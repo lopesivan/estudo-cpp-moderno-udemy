@@ -1,0 +1,20 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "main.cpp"
+        ],
+        "directory": "/workspace/estudo-cpp-moderno-udemy/01-introdu\u00e7\u00e3o",
+        "file": "main.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "Mamifero.cpp"
+        ],
+        "directory": "/workspace/estudo-cpp-moderno-udemy/01-introdu\u00e7\u00e3o",
+        "file": "Mamifero.cpp"
+    }
+]
